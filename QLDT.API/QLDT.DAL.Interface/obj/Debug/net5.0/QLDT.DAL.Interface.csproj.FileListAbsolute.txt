@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\bin\Debug\net5.0\QLDT.DAL.Interface.deps.json
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\bin\Debug\net5.0\QLDT.DAL.Interface.dll
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\bin\Debug\net5.0\ref\QLDT.DAL.Interface.dll
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\bin\Debug\net5.0\QLDT.DAL.Interface.pdb
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\bin\Debug\net5.0\QLDT.Domain.dll
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\bin\Debug\net5.0\QLDT.Domain.pdb
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.dll
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\ref\QLDT.DAL.Interface.dll
+C:\Users\USER\OneDrive\Desktop\QLDT\Project\BE\QLDT.API\QLDT.DAL.Interface\obj\Debug\net5.0\QLDT.DAL.Interface.pdb

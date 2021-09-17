@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-QLDT.API-A3C22678-442C-496B-85EF-AE14902933D8</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QLDT.BAL.Interface\QLDT.BAL.Interface.csproj" />
+    <ProjectReference Include="..\QLDT.BAL\QLDT.BAL.csproj" />
+    <ProjectReference Include="..\QLDT.DAL.Interface\QLDT.DAL.Interface.csproj" />
+    <ProjectReference Include="..\QLDT.DAL\QLDT.DAL.csproj" />
+    <ProjectReference Include="..\QLDT.Domain\QLDT.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
